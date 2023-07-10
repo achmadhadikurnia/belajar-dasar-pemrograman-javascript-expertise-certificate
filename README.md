@@ -5,5 +5,4 @@ Pelajari dasar JavaScript, dari fundamental, sintaks dan fitur ES6, hingga konse
 [View](https://www.dicoding.com/academies/256)
 
 ## Certificate
-
 [View](https://www.dicoding.com/certificates/07Z6GKJ92XQR)
